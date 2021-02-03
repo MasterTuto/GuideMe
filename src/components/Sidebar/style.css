@@ -1,0 +1,26 @@
+#sidebar {
+    position: fixed;
+    top: 4.2em;
+    flex: 1;
+    background-color: #3F51B5;
+    width: 23%;
+    height: calc(100% - 5em);
+    min-width: 300px;
+    color: #FFFFFF;
+    overflow-y:auto;
+    z-index: 999999999;
+    padding: 0.5em;
+}
+
+#li-title {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+ul {
+    margin: 5px 0 19px 0;
+}
+
+li {
+    margin-top: 7px;
+}

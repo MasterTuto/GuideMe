@@ -1,0 +1,12 @@
+#searchBar {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#topbar > #searchBar {
+    display: flex;
+    flex-direction: row;
+    margin-right: 3em;
+    flex: 0;
+}
