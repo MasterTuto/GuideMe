@@ -1,0 +1,1165 @@
+[
+    {
+        "semester": "Primeiro Semestre",
+        "subjects": [
+            {
+                "name": "Algoritmos e Programação I (AP1)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1 Evolução das Linguagens [Estudonauta Cursos]",
+                                "url": "https://www.youtube.com/watch?v=VdTRiUe23os"
+                            },
+                            {
+                                "title": "2 Diferença entre compilador e interpretador [professor da USP]",
+                                "url": "https://www.youtube.com/watch?v=fzNd_PD4_n4"
+                            },
+                            {
+                                "title": "3 O que é um algoritmo [Peixe Babel]",
+                                "url": "https://www.youtube.com/watch?v=enQJN34Mh28"
+                            },
+                            {
+                                "title": " 4 Playlist - Lógica de Programação com VisualG [Bóson Treinamentos] (1-16)",
+                                "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd"
+                            },
+                            {
+                                "title": " 5 Algoritmos em Visualg e Teste de mesa [Desenvolve .NET]",
+                                "url": "https://www.youtube.com/watch?v=enr0_tBAy9I"
+                            },
+                            {
+                                "title": "6.1 Playlist - C++ Básico [Programando do Zero]",
+                                "url": "https://www.youtube.com/playlist?list=PLzyfadCfUlyRdif-i5L_rrNpIuChucDQ2"
+                            },
+                            {
+                                "title": "6.2 Playlist - Curso de C++ [CFBCursos] até aula 43",
+                                "url": "https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40"
+                            },
+                            {
+                                "title": "6.3 Playlist - Curso de C++ [eXcript]",
+                                "url": "https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "semester": "Segundo Semestre",
+        "subjects": [
+            {
+                "name": "Algoritmos e Programação II (AP2)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1. Curso de UML [Bóson Treinamentos]",
+                                "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ"
+                            },
+                            {
+                                "title": "2.1 Programação orientada a objetos (todas as características) [CURSO EM VÍDEO]",
+                                "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY"
+                            },
+                            {
+                                "title": "2.2 Programação orientada a objetos (focada em UML) [Leandro Guarino]",
+                                "url": "https://www.youtube.com/playlist?list=PLTLAlheiUm5HVhAjNBvpkLIqRP4CSr3M0"
+                            },
+                            {
+                                "title": "2.2 Programação orientada a objetos [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHewZWSrlhpId71bk5N_W7W1"
+                            },
+                            {
+                                "title": "3.1 Curso COMPLETO de Java [DevDojo]",
+                                "url": "https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL"
+                            },
+                            {
+                                "title": "3.2 Curso de Java [Carlos Henrique Java]",
+                                "url": "https://www.youtube.com/playlist?list=PLtchvIBq_CRTAwq_xmHdITro_5vbyOvVw"
+                            },
+                            {
+                                "title": "4.1 Vídeos sobre JavaFX [Descompila]",
+                                "url": "https://www.youtube.com/playlist?list=PLWd_VnthxxLejQ9CcHrsT5HCFn-10kquZ"
+                            },
+                            {
+                                "title": "4.2 JavaFX [Patrick Miranda]",
+                                "url": "https://www.youtube.com/playlist?list=PLA1W9ojL1mVwql7mYQrMqHJ7GEb9xEg8q"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Álgebra Linear",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1.1 Matemática Superior - Álgebra Linear [Me Salva!]",
+                                "url": "https://www.youtube.com/playlist?list=PLf1lowbdbFIAFr80SlJP7jsJcssvqRV5b"
+                            },
+                            {
+                                "title": "1.2 Aulas de Álgebra Linear (completo) [S.O.S Saber]",
+                                "url": "https://www.youtube.com/playlist?list=PLO3hBdfBc4pFef1zn1oZyYXLomL9MiX-C"
+                            },
+                            {
+                                "title": "1.3 Álgebra Linear [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLYPA4S3U31qxEUPU-tLLPPduBupCTYC6h"
+                            },
+                            {
+                                "title": "2.1 Matrizes, determinantes e sistemas lineares [Equaciona com Paulo Pereira]",
+                                "url": "https://www.youtube.com/playlist?list=PLEfwqyY2ox868TPa8vjL-QPfQlmtqRGa5"
+                            },
+                            {
+                                "title": "3.1 Matrizes e Determinantes [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=r1o7RryS8WM"
+                            },
+                            {
+                                "title": "3.2 Aprenda rápido - Matrizes [Dicasdemat Sandro Curió]",
+                                "url": "https://www.youtube.com/watch?v=ktr4wfXi9xg"
+                            },
+                            {
+                                "title": "4.1 Rápido e Fácil | Sistemas Lineares 3 x 3 | Escalonamento [Dicasdemat Sandro Curió]",
+                                "url": "https://www.youtube.com/watch?v=hP59QyuhTbc"
+                            },
+                            {
+                                "title": "4.2 Geometria Analítica e Álgebra Linear - Aula 01 - Sistema de Equações Lineares I [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=oD84gokfleA"
+                            },
+                            {
+                                "title": "5.1 Espaço vetorial: exercícios [fernando]",
+                                "url": "https://www.youtube.com/watch?v=e8kAs458cVI&list=PLhlx0uNVbDQjVBaNrvuGfpPJ7Ubf_Ycz3"
+                            },
+                            {
+                                "title": "6.1 Aplicação linear - Introdução [Matemática Universitária]",
+                                "url": "https://www.youtube.com/watch?v=dlgaQLbTwn0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Teoria dos Grafos",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1.1 Introdução a teoria dos grafos [PIC OBMEP]",
+                                "url": "https://www.youtube.com/playlist?list=PLrVGp617x0hAm90-7zQzbRsSOnN2Vbr-I"
+                            },
+                            {
+                                "title": "1.2 Todos os assuntos de grafos [Matemática para gente grande]",
+                                "url": "https://www.youtube.com/playlist?list=PL8aWdrmfXHiJU_V_c2vM1dCFDh_Z93BeZ"
+                            },
+                            {
+                                "title": "2 Grafos Orientados",
+                                "url": "https://www.youtube.com/watch?v=74_YKin3xzQ"
+                            },
+                            {
+                                "title": "3 Grafos não orientados",
+                                "url": "https://www.youtube.com/watch?v=JAPygr0xhUY"
+                            },
+                            {
+                                "title": "4 Caminhos e Circuitos em Grafos [Projeto Grafos nas Escolas] ",
+                                "url": "https://www.youtube.com/watch?v=m4t6D24R5k8"
+                            },
+                            {
+                                "title": "5 Planaridade de grafos [walter betini]",
+                                "url": "https://www.youtube.com/watch?v=qXLrYsYc3Z8"
+                            },
+                            {
+                                "title": "6.1 Conectividade de grafos [Patricia Jaques Millard]",
+                                "url": "https://www.youtube.com/watch?v=VzO04TEGYb0"
+                            },
+                            {
+                                "title": "6.2 Conectividade de grafos [PIC OBMEP]",
+                                "url": "https://www.youtube.com/watch?v=eNE1rlXJF_o"
+                            },
+                            {
+                                "title": "6.3 Grafo Conexo [Henrique Cunha]",
+                                "url": "https://www.youtube.com/watch?v=ASMEibmfLE0"
+                            },
+                            {
+                                "title": "7.1 Coloração grafos [Gabriel Todesco]",
+                                "url": "https://www.youtube.com/watch?v=wSx6QivLBL4"
+                            },
+                            {
+                                "title": "7.2 Palestra sobre Coloração grafos [IMPA]",
+                                "url": "https://www.youtube.com/watch?v=q-UApUu81WA"
+                            },
+                            {
+                                "title": "7.3 Colorindo grafos e teorema das quatro cores [Casa da Ciência]",
+                                "url": "https://www.youtube.com/watch?v=sxMYeaql0VI"
+                            },
+                            {
+                                "title": "8 Algoritmos em grafos [playlist]",
+                                "url": "https://www.youtube.com/playlist?list=PLYtFQZHKPEUuCk0KLo4GS1c_jecIwvRDU"
+                            },
+                            {
+                                "title": "9 Problemas intratáveis e o problema do carteiro chinês [williamhigino]",
+                                "url": "https://www.youtube.com/watch?v=PCG6TmdJzWU"
+                            },
+                            {
+                                "title": "10 Busca em largura e profundidade [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=dQ42rha2qFA"
+                            },
+                            {
+                                "title": "11.1 Busca em largura [Linguagem C Programação descomplicada]",
+                                "url": "https://www.youtube.com/watch?v=jWoP1fTTDzE"
+                            },
+                            {
+                                "title": "11.2 Busca em largura [Leonardo Vieira]",
+                                "url": "https://www.youtube.com/watch?v=u834GA3725M"
+                            },
+                            {
+                                "title": "12.1 Busca em profundidade [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=doH9o1sO-Cw"
+                            },
+                            {
+                                "title": "12.2 Busca em profundidade [Pedro Yurp]",
+                                "url": "https://www.youtube.com/watch?v=0B6VfRbppkE"
+                            },
+                            {
+                                "title": "13.1 Algoritmo caminho mínimo (Dijkstra) [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=LmGRAIpF28Q"
+                            },
+                            {
+                                "title": "13.2 Algoritmo de Dijkstra [Guilherme Ferreira - UNISC]",
+                                "url": "https://www.youtube.com/watch?v=aJ_2c9NVCIc"
+                            },
+                            {
+                                "title": "13.3 Algoritmo menor caminho [Linguagem C Programação descomplicada]",
+                                "url": "https://www.youtube.com/watch?v=5y8dch2uHR4"
+                            },
+                            {
+                                "title": "14.1 Arvore geradora [Andressa Oliveira]",
+                                "url": "https://www.youtube.com/watch?v=tCheLd4H-nM"
+                            },
+                            {
+                                "title": "14.2 Arvore geradora Mínima [Patricia Jacques Millard]",
+                                "url": "https://www.youtube.com/watch?v=1BMhVLQc2HA"
+                            },
+                            {
+                                "title": "15.1 Ordenação topológica [henrique moura]",
+                                "url": "https://www.youtube.com/watch?v=kEo0dRteZE0"
+                            },
+                            {
+                                "title": "15.2 Ordenação topológica em JavaScript [Code Shot]",
+                                "url": "https://www.youtube.com/watch?v=MO4Lbr44Q_Y"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Recursos em texto",
+                        "list": [
+                            {
+                                "title": "1. Conceitos Gerais de Grafos (UFSC)",
+                                "url": "https://www.inf.ufsc.br/grafos/definicoes/definicao.html"
+                            },
+                            {
+                                "title": "2. Problema do Caminho Mínimo [UFPR]",
+                                "url": "https://docs.ufpr.br/~volmir/PO_II_10_caminho_minimo.pdf"
+                            },
+                            {
+                                "title": "3. Algoritmos elementares em grafos [UNICAMP]",
+                                "url": "https://www.ic.unicamp.br/~meidanis/courses/mo417/2003s1/aulas/2003-05-14.html"
+                            },
+                            {
+                                "title": "4. Busca em Largura e Aplicações [Prof Helder Hideraldo]",
+                                "url": "https://edisciplinas.usp.br/pluginfile.php/5172984/mod_resource/content/1/ACH2024-Aula08-Grafos_BuscaEmLargura.pdf"
+                            },
+                            {
+                                "title": "5. Teoria dos Grafos - Uma Introdução [Prof. Marco Antonio - UNICAMP]",
+                                "url": "https://www.ft.unicamp.br/~magic/ft024/apografos_ceset_magic.pdf"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fundamentos de Sistemas de Informação (FSI)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1.1 Fundamentos de Sistemas de Informação [Questoes de Informática]",
+                                "url": "https://www.youtube.com/playlist?list=PLjzmQiSlNcO6WuxkUfyvtvosgNpSdRtOC"
+                            },
+                            {
+                                "title": "1.2 Fundamentos de Sistemas de Informação [ADS EAD]",
+                                "url": "https://www.youtube.com/playlist?list=PLvQ-BeS0wYi1QMQCDNIki5ERcGyIFlG8h"
+                            },
+                            {
+                                "title": "2 Origem e Conceito da Teoria Geral dos Sistemas [Mundo da administração]",
+                                "url": "https://www.youtube.com/watch?v=-y55wUlk8bk"
+                            },
+                            {
+                                "title": "3 Conceitos de Sistema",
+                                "url": "https://www.youtube.com/watch?v=875aK7w1Dhc"
+                            },
+                            {
+                                "title": "4 Custo, Valor  e  Qualidade  da  Informação [Ezequias Silva]",
+                                "url": "https://www.youtube.com/watch?v=bQQ5NC3KWS4"
+                            },
+                            {
+                                "title": "5 Fundamentos e Classificação [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=N4wGhiuEaxo"
+                            },
+                            {
+                                "title": "6.1 Vantagem Competitiva [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=_Sd4jCG1bHw"
+                            },
+                            {
+                                "title": "6.2 Vantagem Competitiva [Casa do Saber]",
+                                "url": "https://www.youtube.com/watch?v=7FwKogLzJAc"
+                            },
+                            {
+                                "title": "7 Sistemas de Informação [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHczVm37Sw-UssyYdd0FMyR0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lógica para Computação",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1 Lógica proposicional [Zurubabel]",
+                                "url": "https://www.youtube.com/playlist?list=PL4OAe-tL47saHhA8ywUFm-Trjk06ocCny"
+                            },
+                            {
+                                "title": "2 Lógica de predicados [Zurubabel]",
+                                "url": "https://www.youtube.com/playlist?list=PL4OAe-tL47sa_ayyqtYpRJrEJZBv2sn_C"
+                            },
+                            {
+                                "title": "3 Lógica de primeira ordem [É Lógico, pô]",
+                                "url": "https://www.youtube.com/playlist?list=PLpGHF_AAwOMGi-ZGBsBGr_ikixc8xnBWU"
+                            },
+                            {
+                                "title": "4.1 Sistemas Dedutivos [Cleber]",
+                                "url": "https://www.youtube.com/watch?v=ybMaFgsCABc"
+                            },
+                            {
+                                "title": "4.2 Sistemas Dedutivos [Othon Batista]",
+                                "url": "https://www.youtube.com/watch?v=n1VsV93tG9E"
+                            },
+                            {
+                                "title": "5 Relações de Consequências [Cleber]",
+                                "url": "https://www.youtube.com/watch?v=XmIORWOiTiQ"
+                            },
+                            {
+                                "title": "6 Corretude",
+                                "url": "https://www.youtube.com/watch?v=fy1ZxI4dd1M"
+                            },
+                            {
+                                "title": "7 Completude",
+                                "url": "https://www.youtube.com/watch?v=Vmvbitz8M7Q"
+                            },
+                            {
+                                "title": "8.1 Prova por contraposita",
+                                "url": "https://www.youtube.com/watch?v=X9zLK6LS2Po"
+                            },
+                            {
+                                "title": "8.2 Prova por redução ao absurdo",
+                                "url": "https://www.youtube.com/watch?v=E89vPUjLe-Q"
+                            },
+                            {
+                                "title": "9 Provas de teoremas",
+                                "url": "https://www.youtube.com/watch?v=47txTvB4x9o"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cálculo Diferencial e Integral II (Cálculo 2)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1.1 Cálculo II Completo [Vídeo aulas SAES/UPF]",
+                                "url": "https://www.youtube.com/playlist?list=PL3mbnnHrApnLe45BfNjNVbNdhVD4D7B8H"
+                            },
+                            {
+                                "title": "1.2 Cálculo II Completo [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER"
+                            },
+                            {
+                                "title": "1.2 Cálculo II Completo [Instituto Mauá]",
+                                "url": "https://www.youtube.com/playlist?list=PLnWpv5C1ai2fbkVqcgwaYCiM2YA_ztwOU"
+                            },
+                            {
+                                "title": "2.1 Integral Indefinida [Equaciona]",
+                                "url": "https://www.youtube.com/watch?v=M_xCxHcBdBo"
+                            },
+                            {
+                                "title": "2.2 Integral Indefinida - Aula 1 [GRINGS]",
+                                "url": "https://www.youtube.com/watch?v=CdEUV9mcEJ8"
+                            },
+                            {
+                                "title": "2.3 Integral Indefinida - Aula 2 [GRINGS]",
+                                "url": "https://www.youtube.com/watch?v=TPRt6MpP7R0"
+                            },
+                            {
+                                "title": "2.4 Integral Indefinida - Aula 3 [GRINGS]",
+                                "url": "https://www.youtube.com/watch?v=DFP20IRQ3mI"
+                            },
+                            {
+                                "title": "2.5 Integral Indefinida - Aula 5 [GRINGS]",
+                                "url": "https://www.youtube.com/watch?v=iyQlBAAHA9Q"
+                            },
+                            {
+                                "title": "2.6 Integral Indefinida - Aula 6 [GRINGS]",
+                                "url": "https://www.youtube.com/watch?v=k_p_wKHuz0w"
+                            },
+                            {
+                                "title": "3 Técnicas de Integração [Ficou mais Fácil]",
+                                "url": "https://www.youtube.com/playlist?list=PLfWdOFF4w26rlDKapbr0Hwzr5YDWlX-SS"
+                            },
+                            {
+                                "title": "4.1 Integral Definida [Me Salva!]",
+                                "url": "https://www.youtube.com/watch?v=cx8TtHYsNzU"
+                            },
+                            {
+                                "title": "4.2 Integral Definida [Equaciona com Paulo Pereira]",
+                                "url": "https://www.youtube.com/watch?v=CWWbjoOjYOg"
+                            },
+                            {
+                                "title": "4.3 Integral Definida [Matemática Rapidola]",
+                                "url": "https://www.youtube.com/watch?v=qk7PP0J4NaA"
+                            },
+                            {
+                                "title": "5.1 Cálculo de Área por Integração [Equaciona]",
+                                "url": "https://www.youtube.com/watch?v=wv23YefHGJA"
+                            },
+                            {
+                                "title": "5.2 Cálculo de Área por Integração [Paulo Ramos]",
+                                "url": "https://www.youtube.com/watch?v=lDaksKlOY-o"
+                            },
+                            {
+                                "title": "5.3 Cálculo de Área por Integração [Professor Mateca]",
+                                "url": "https://www.youtube.com/watch?v=FIJLwZm4sN8"
+                            },
+                            {
+                                "title": "6.1 Cálculo de Volumes [omatematico.com]",
+                                "url": "https://www.youtube.com/watch?v=W8oSjEkRY7Q"
+                            },
+                            {
+                                "title": "6.2 Volumes de Sólido de Revolução [MATEMÁTICA PARA ENSINO SUPERIOR]",
+                                "url": "https://www.youtube.com/watch?v=3Ey0mi10niw"
+                            },
+                            {
+                                "title": "7.1 Equações Diferenciais Ordinárias (aulas da 16 a 21) [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY"
+                            },
+                            {
+                                "title": "7.2 Equações Diferenciais Ordinárias [omatematico.com]",
+                                "url": "https://www.youtube.com/watch?v=y36S9e006h8"
+                            },
+                            {
+                                "title": "8 Equações Diferenciais de Primeira Ordem em diante [omatematico.com]",
+                                "url": "https://www.youtube.com/playlist?list=PLDE03B0D5AD616BE1"
+                            },
+                            {
+                                "title": "9 Equações Diferenciais Lineares Homogêneas de 2ª Ordem e Coeficientes Constantes [MATEMÁTICA PARA ENSINO SUPERIOR]",
+                                "url": "https://www.youtube.com/watch?v=U_B8FJRZ8sY"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Conteúdo Misto",
+                        "list": [
+                            {
+                                "title": "Cálculo Integral [Khan Academy]",
+                                "url": "https://pt.khanacademy.org/math/integral-calculus"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Física para Computação I (Física 1)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1.1 Física 1 [Canal USP]",
+                                "url": "https://www.youtube.com/playlist?list=PLAudUnJeNg4vmlyuv__uBgdOkzw4VSrcJ"
+                            },
+                            {
+                                "title": "1.2 Física 1 [UFPE]",
+                                "url": "https://www.youtube.com/playlist?list=PLFSnHaVpgmiGN_0jUOA4pliJCtR4XCIJ_"
+                            },
+                            {
+                                "title": "1.3 Física 3 [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL"
+                            },
+                            {
+                                "title": "1.4 Física Elétrica [omatematico.com]",
+                                "url": "https://www.youtube.com/playlist?list=PLE6qFDd4x9w_JT-moXdEKW4fSHgzzKccF"
+                            },
+                            {
+                                "title": "2.1 Vetores [Professor Boaro]",
+                                "url": "https://www.youtube.com/watch?v=eAAKzZcbITI"
+                            },
+                            {
+                                "title": "2.2 Vetores [Playlist - Professor Boaro]",
+                                "url": "https://www.youtube.com/playlist?list=PLDE03B0D5AD616BE1"
+                            },
+                            {
+                                "title": "2.3 Vetores [Física Total]",
+                                "url": "https://www.youtube.com/watch?v=8Qg4U_eCPzA"
+                            },
+                            {
+                                "title": "3 Dinâmica de Partículas [Física Total]",
+                                "url": "https://www.youtube.com/playlist?list=PLnvUhOKqMcblqvoldXVmJsJ-fMUBc2hRa"
+                            },
+                            {
+                                "title": "4.1 Conservação de Energia [Pirando amigo!]",
+                                "url": "https://www.youtube.com/playlist?list=PL1hCB5L6yvzmaxARiopK2xwoIg5XksH2_"
+                            },
+                            {
+                                "title": "4.2 Conservação de Energia [Só 10 Minutos]",
+                                "url": "https://www.youtube.com/playlist?list=PLWLEis9E9V29RRGLpyc9I5KQ-eIzjPiIF"
+                            },
+                            {
+                                "title": "5.1 Dinâmica de Rotação - Momento Angular [Responde aí]",
+                                "url": "https://www.youtube.com/watch?v=3sZfccowDrk"
+                            },
+                            {
+                                "title": "5.2 Dinâmica Rotacional e Torque [Física Universitária]",
+                                "url": "https://www.youtube.com/watch?v=B4uOQM_g7B8"
+                            },
+                            {
+                                "title": "6.1 Carga Elétrica [Professor Boaro]",
+                                "url": "https://www.youtube.com/watch?v=BMrIHgI0PlU"
+                            },
+                            {
+                                "title": "6.2 Carga Elétrica [Me Salva!]",
+                                "url": "https://www.youtube.com/watch?v=1bP8oEtgQkA"
+                            },
+                            {
+                                "title": "7 Campo elétrico [Física 2.0]",
+                                "url": "https://www.youtube.com/watch?v=C8jgWisYAek"
+                            },
+                            {
+                                "title": "8.1 Fluxo Elétrico [Resolvendo seus problemas]",
+                                "url": "https://www.youtube.com/watch?v=KRDhpXjQfx4"
+                            },
+                            {
+                                "title": "8.2 Fluxo Elétrico [Joel Mendonça]",
+                                "url": "https://www.youtube.com/watch?v=Vlk-XW8Wg08"
+                            },
+                            {
+                                "title": "9.1 Potencial Elétrico [Chama o Físico]",
+                                "url": "https://www.youtube.com/watch?v=gSIzsP1uyYQ"
+                            },
+                            {
+                                "title": "9.2 Potencial Elétrico [Física com Douglas Gomes]",
+                                "url": "https://www.youtube.com/watch?v=T9G9UHZPl08"
+                            },
+                            {
+                                "title": "10.1 Capacitores [Professor Boaro]",
+                                "url": "https://www.youtube.com/watch?v=wG0sQz91MKc"
+                            },
+                            {
+                                "title": "10.2 Capacitores [FISICATOTAL]",
+                                "url": "https://www.youtube.com/watch?v=O7td_P5JHtc"
+                            },
+                            {
+                                "title": "11.1 Dielétricos [Khan Academy]",
+                                "url": "https://www.youtube.com/watch?v=i5t610oTI0Q"
+                            },
+                            {
+                                "title": "11.2 Dielétricos [Science Club]",
+                                "url": "https://www.youtube.com/watch?v=LUc-0VDh3Nc"
+                            },
+                            {
+                                "title": "12 Corrente Elétrica [Física 2.0]",
+                                "url": "https://www.youtube.com/playlist?list=PLNfWNKz4iEr83o2Nagek2XPcTt0ulgncN"
+                            },
+                            {
+                                "title": "13.1 Resistência Elétrica [Mundo da Elétrica]",
+                                "url": "https://www.youtube.com/watch?v=BUa-wIO1FyY"
+                            },
+                            {
+                                "title": "13.2 Resistência Elétrica [Professor Octávio]",
+                                "url": "https://www.youtube.com/watch?v=6QeanXwEJGE"
+                            },
+                            {
+                                "title": "14.1 Resistividade Elétrica [Marcos Aba]",
+                                "url": "https://www.youtube.com/watch?v=jBErpjIx7n0"
+                            },
+                            {
+                                "title": "14.2 Resistividade Elétrica [Fisica Total]",
+                                "url": "https://www.youtube.com/watch?v=4WnnikjAK8E"
+                            },
+                            {
+                                "title": "14.3 Resistência e Resistividade [Responde Aí]",
+                                "url": "https://www.youtube.com/watch?v=PcbJj7ul-Gg"
+                            },
+                            {
+                                "title": "15.1 Circuitos de Corrente Contínua [FísicaInterativa.com]",
+                                "url": "https://www.youtube.com/playlist?list=PLF06ERiJT7bbpuAMyT6vxciCaDbz9cubn"
+                            },
+                            {
+                                "title": "15.2 O que é corrente Contínua [GV Ensino]",
+                                "url": "https://www.youtube.com/watch?v=XjqGVMCQulg"
+                            },
+                            {
+                                "title": "15.3 Circuito de Corrente Contínua [Antonio Santos]",
+                                "url": "https://www.youtube.com/watch?v=ProfArQq6MM"
+                            },
+                            {
+                                "title": "15.4 Circuitos Corrente Contínua [Playlist - Eric Daza]",
+                                "url": "https://www.youtube.com/playlist?list=PLy6bHc3TS3z-o_NFVgzxUsxtpF8clQAkC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "semester": "Quarto Semestre",
+        "subjects": [
+            {
+                "name": "Teoria da Computação",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1 Funções recursivas [Programação de Computadores]",
+                                "url": "https://www.youtube.com/watch?v=J_-uCVE_huw"
+                            },
+                            {
+                                "title": "2.1 Brevíssima Introdução ao Cálculo Lambda [Cristiano Vasconcellos]",
+                                "url": "https://www.youtube.com/watch?v=jvAkNij65W4"
+                            },
+                            {
+                                "title": "2.2 Expressões condicionais com cálculo lambda [iMasters] ",
+                                "url": "https://www.youtube.com/watch?v=x0vI9v8yGtI"
+                            },
+                            {
+                                "title": "3.1 Tese de Church-Turing [Prof. Hugo Vieira]",
+                                "url": "https://www.youtube.com/watch?v=9cVq8Axq8lE"
+                            },
+                            {
+                                "title": "3.2 Tese de Church-Turing [Podcast Número Imaginário]",
+                                "url": "https://www.youtube.com/watch?v=RJyXucOup-E"
+                            },
+                            {
+                                "title": "3.3 Tese de Church-Turing [Carla Negri]",
+                                "url": "https://www.youtube.com/watch?v=rJ9Ke3fc1Ss"
+                            },
+                            {
+                                "title": "4.1 Problemas indecidíveis [dcc01ufmg]",
+                                "url": "https://www.youtube.com/watch?v=VfGNbJNOQZE"
+                            },
+                            {
+                                "title": "4.2 Problema da Parada [Número Imaginário]",
+                                "url": "https://www.youtube.com/watch?v=FJDPByoboOk"
+                            },
+                            {
+                                "title": "4.3 Problema da Parada [dc001ufmg]",
+                                "url": "https://www.youtube.com/watch?v=uFt3iufzrUw"
+                            },
+                            {
+                                "title": "5.1 Os teoremas da Incompletude de Gödel [É Lógico, pô]",
+                                "url": "https://www.youtube.com/watch?v=gz5-GhNnkYk"
+                            },
+                            {
+                                "title": "5.2 Os teoremas de incompletude de Gödel [Palesta - CEPID CeMAI]",
+                                "url": "https://www.youtube.com/watch?v=s_4Rq141_-A"
+                            },
+                            {
+                                "title": "5.3 O teorema da incompletude de Gödel [Escola Íntegro]",
+                                "url": "https://www.youtube.com/watch?v=drtipYgbT-s"
+                            },
+                            {
+                                "title": "5.4 Teorema de Gödel [Lucas Máximo]",
+                                "url": "https://www.youtube.com/watch?v=WkFG8G0HmLw"
+                            },
+                            {
+                                "title": "6.1 Classes de Problemas: P, NP e NP-Completo [UNIVESP] ",
+                                "url": "https://www.youtube.com/watch?v=wsvXnmUHJX8"
+                            },
+                            {
+                                "title": "6.2 Classes de Problemas: P, NP, NP-Completo e NP-Difícil [Daniel Frey]",
+                                "url": "https://www.youtube.com/watch?v=_SiJoR-xNHg"
+                            },
+                            {
+                                "title": "6.3 Classes de Problemas: P, NP, NP-Completo e NP-Difícil [Gabriel Medeiros]",
+                                "url": "https://www.youtube.com/watch?v=Q9Z8hPN8I5c"
+                            },
+                            {
+                                "title": "7.1 O Processo de Solução de Problemas [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=yk8xR-moUM8"
+                            },
+                            {
+                                "title": "7.2 Redução entre problemas [Professor Mário]",
+                                "url": "https://www.youtube.com/watch?v=LGF3ndqznac"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Redes de Computadores I (Redes 1)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1.1 Redes de Computadores [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk"
+                            },
+                            {
+                                "title": "1.2 Curso de redes de computadores [Bóson Treinamentos]",
+                                "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNpGh95n-OdEk06ity7YYfvU"
+                            },
+                            {
+                                "title": "2.1 Modelo OSI/ISO [Playlist - Felipe Barreiros]",
+                                "url": "https://www.youtube.com/playlist?list=PLNx2jaiLxdXG5BRlnh7B4ysSnlRsNk2AE"
+                            },
+                            {
+                                "title": "2.2 Modelo OSI/ISO e TP/IP [Redes Brasil]",
+                                "url": "https://www.youtube.com/watch?v=oz8gvGIUKFw"
+                            },
+                            {
+                                "title": "2.3 Playlist Modelo OSI e TCP/IP [Felipe Barreiros]",
+                                "url": "https://www.youtube.com/playlist?list=PLsiPSRLxRO-BJ1t5X2fAK_779yYRLT6Ym"
+                            },
+                            {
+                                "title": "3.1 TCP/IP e OSI [Informática e concursos]",
+                                "url": "https://www.youtube.com/watch?v=9HOZX0qQfBA"
+                            },
+                            {
+                                "title": "3.2 Sobre o TCP/IP [Curso Online dlTec do Brasil]",
+                                "url": "https://www.youtube.com/watch?v=CuxVTAsicYs"
+                            },
+                            {
+                                "title": "3.3 Pilha de Protocolos TCP/IP [Professor Washington Luis]",
+                                "url": "https://www.youtube.com/watch?v=C7zPrlMkL2w"
+                            },
+                            {
+                                "title": "3.4 Vídeo Aula sobre TCP/IP [Gabriel Dias]",
+                                "url": "https://www.youtube.com/watch?v=aclH6Wf4f44"
+                            },
+                            {
+                                "title": "4.1 Protocolos de rede [CANTINHO DA INFORMÁTICA]",
+                                "url": "https://www.youtube.com/watch?v=031c04syZLs"
+                            },
+                            {
+                                "title": "4.2 Serviços clássicos de rede [Curso Online DlTec do Brasil]",
+                                "url": "https://www.youtube.com/watch?v=IlqLhdsHTPA"
+                            },
+                            {
+                                "title": "4.3 Serviços de rede [Moodle IFTM]",
+                                "url": "https://www.youtube.com/watch?v=jggJVSrXmI0"
+                            },
+                            {
+                                "title": "5.1 Camada Física - Parte 1 [Ailton Luiz Dias Siqueira Júnior]",
+                                "url": "https://www.youtube.com/watch?v=xqo7zjkEx_g"
+                            },
+                            {
+                                "title": "5.2 Camada Física - Parte 2 [Ailton Luiz Dias Siqueira Júnior]",
+                                "url": "https://www.youtube.com/watch?v=tC7T_q0K3b4"
+                            },
+                            {
+                                "title": "6.1 Camada de Enlace [Ailton Luiz Dias Siqueira Júnior]",
+                                "url": "https://www.youtube.com/watch?v=sQfOKyL7pjY"
+                            },
+                            {
+                                "title": "6.2 Endereçamento na camada de enlace [TI Network]",
+                                "url": "https://www.youtube.com/watch?v=1hkq_l2u27s"
+                            },
+                            {
+                                "title": "6.3 Camada de Enlace [Professor Márcio Henrique]",
+                                "url": "https://www.youtube.com/watch?v=1UtSUlbeplo"
+                            },
+                            {
+                                "title": "6.4 Camada de Link de Dados do modelo OSI [Bóson Treinamentos]",
+                                "url": "https://www.youtube.com/watch?v=Je2xrKUw6R8"
+                            },
+                            {
+                                "title": "7.1 Princípios da Camada de Rede [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=GuIxQmw75a4"
+                            },
+                            {
+                                "title": "7.2 Camada de rede [rodrigoronner]",
+                                "url": "https://www.youtube.com/watch?v=dXk2fJ2CkYw"
+                            },
+                            {
+                                "title": "7.3 Protocolos da camada de rede [TI Network]",
+                                "url": "https://www.youtube.com/watch?v=_3_w1rDaIiE"
+                            },
+                            {
+                                "title": "7.4 Camada de rede resumo - Parte 1 [Eduardo Maroñas Monks]",
+                                "url": "https://www.youtube.com/watch?v=2t3mHxkyB9Y"
+                            },
+                            {
+                                "title": "7.5 Camada de rede resumo - Parte 2 [Eduardo Maroñas Monks]",
+                                "url": "https://www.youtube.com/watch?v=raBdQ7I-kas"
+                            },
+                            {
+                                "title": "8 TCP/IPv4 [ProfessorRamos]",
+                                "url": "https://www.youtube.com/watch?v=EG9mSXlMTU4"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Engenharia de Software",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": " 1 Playlist - Engenharia de Software [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHfeoA_yMm9iKJVxQprljmL9"
+                            },
+                            {
+                                "title": " 2.1 Introdução a Engenharia de Software [Alvaro Gomes]",
+                                "url": "https://www.youtube.com/watch?v=amL-VX2_PeQ"
+                            },
+                            {
+                                "title": " 2.2 Introdução a Engenharia de Software [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=ciQ2FObc3tc"
+                            },
+                            {
+                                "title": "3.1 Playlist - Processos de Desenvolvimento de Software [Questoes de Informática]",
+                                "url": "https://www.youtube.com/playlist?list=PLjzmQiSlNcO4FxRa1IrmvP3Tiee2piqrr"
+                            },
+                            {
+                                "title": "3.2 Playlist - Processo de Desenvolvimento de Software [ADS EAD]",
+                                "url": "https://www.youtube.com/playlist?list=PLvQ-BeS0wYi2eB2ydub_t3WRkatQn0_QC"
+                            },
+                            {
+                                "title": "3.3 Processo de Desenvolvimento de Software [Adler Diniz de Souza]",
+                                "url": "https://www.youtube.com/watch?v=kobv3TrOYiQ"
+                            },
+                            {
+                                "title": "4.1 PodCast - Ciclo de Vida de Software [PodProgramar]",
+                                "url": "https://www.youtube.com/watch?v=yd_ZY7fOhOQ"
+                            },
+                            {
+                                "title": "4.2 Ciclo de Vida de Desenvolvimento de Software [wopemheimer]",
+                                "url": "https://www.youtube.com/watch?v=4Y4O7NVDc3M"
+                            },
+                            {
+                                "title": "5.1 Plano de Gerenciamento de Projetos [Mario Trentim]",
+                                "url": "https://www.youtube.com/watch?v=eIBJRkvZEGc"
+                            },
+                            {
+                                "title": "5.2 Projeto e Gerenciamento de Projetos [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=cB87qJWJfZg"
+                            },
+                            {
+                                "title": "6.1 Playlist - Engenharia de Requisitos de Sistemas [Horácio Ribeiro]",
+                                "url": "https://www.youtube.com/playlist?list=PLQMKp1iUmoWEGIDGMLt4xyupao04NGk2e"
+                            },
+                            {
+                                "title": "6.2 Playlist - Engenharia de Requisitos [JJV Learning]",
+                                "url": "https://www.youtube.com/playlist?list=PLjCq223Pj08oGx1TnVtyQ_wHBTe0ILx9V"
+                            },
+                            {
+                                "title": "6.3 Engenharia de Requisitos [IGTI]",
+                                "url": "https://www.youtube.com/watch?v=uByugxhiPaU"
+                            },
+                            {
+                                "title": "7.1 Playlist - Gerência e Qualidade de Software [UNIVESP]",
+                                "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC"
+                            },
+                            {
+                                "title": "7.2 Qualidade de Software [Canal dotNET]",
+                                "url": "https://www.youtube.com/watch?v=00xqch7gTrU"
+                            },
+                            {
+                                "title": "7.3 Qualidade de Software [Eduardo Engenharia de Software]",
+                                "url": "https://www.youtube.com/watch?v=Hun0mLFKbYY"
+                            },
+                            {
+                                "title": "8.1 Projeto de Arquitetura de Software - Parte 1 [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=2R4l995J2Jw"
+                            },
+                            {
+                                "title": "8.1 Projeto de Arquitetura de Software - Parte 2 [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=PwRvSNgbibU"
+                            },
+                            {
+                                "title": "8.2 Projeto e Arquitetura de Software [Gabriel de Oliveira]",
+                                "url": "https://www.youtube.com/watch?v=Pl3LEmKJDUM"
+                            },
+                            {
+                                "title": "8.3 O que é arquitetura de software [daves tecnologia]",
+                                "url": "https://www.youtube.com/watch?v=zu9Gz9xFfUM"
+                            },
+                            {
+                                "title": "9.1 Verificação, Validação e Testes JUnit [Bianca Tavares]",
+                                "url": "https://www.youtube.com/watch?v=ix0QjidSurk"
+                            },
+                            {
+                                "title": "9.2 Verificação e Validação [Eduardo Engenharia de Software]",
+                                "url": "https://www.youtube.com/watch?v=bkqL7e0DcIs"
+                            },
+                            {
+                                "title": "10.1 Manutenção de Software [Eduardo Engenharia de Software]",
+                                "url": "https://www.youtube.com/watch?v=DaK6Jzhz0Tc"
+                            },
+                            {
+                                "title": "10.2 Evolução de Software [Eduardo Engenharia de Software]",
+                                "url": "https://www.youtube.com/watch?v=j2kTu_Oehjs"
+                            },
+                            {
+                                "title": "10.3 Desenvolvimento e Evolução do Software [Eduardo Engenharia de Software]",
+                                "url": "https://www.youtube.com/watch?v=ro2XLNDvfpw"
+                            },
+                            {
+                                "title": "11 Metodologias de Desenvolvimento de Software [ladytalks]",
+                                "url": "https://www.youtube.com/watch?v=-NIScxaV4ak"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Programação Declarativa",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": " Tutorial PROLOG playlist [Jenilson Nascimento]",
+                                "url": "https://www.youtube.com/watch?v=j7nWslfE6So&list=PLj0FuMXt1-5yVRnJhsxw_MAVMlD5UwvR_"
+                            },
+                            {
+                                "title": " Tutorial PROLOG playlist [Jones Granatyr]",
+                                "url": "https://www.youtube.com/watch?v=omLANiMqbuY"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Recursos em texto",
+                        "list": [
+                            {
+                                "title": " Tutorial completo de haskell [tailorfontela]",
+                                "url": "http://haskell.tailorfontela.com.br/introduction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Arquitetura de Computadores 1 (Arquitetura 1)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": " Tutorial completo teórico [tailorfontela]",
+                                "url": "https://www.youtube.com/watch?v=sbKAYKA5J1A&list=PLdvD02W3316IGfKXNU5Yf5OD-BSla_21i&index=11"
+                            },
+                            {
+                                "title": " Canal com todo o assunto de vhdl só pesquisar wrkits + assuntos ",
+                                "url": "https://www.youtube.com/c/canalwrkits/videos"
+                            },
+                            {
+                                "title": "1.1 PlayList - Curso de Assembly para PIC [WR Kits]",
+                                "url": "https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt"
+                            },
+                            {
+                                "title": "1.2 Playlist - Assembly na Prática [Fernando Anselmo] ",
+                                "url": "https://www.youtube.com/playlist?list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC"
+                            },
+                            {
+                                "title": "2.1 Playlist - Organização de Computadores [Questões de Informática]",
+                                "url": "https://www.youtube.com/playlist?list=PLjzmQiSlNcO64gsS8q-4aBlIOk-04zN6i"
+                            },
+                            {
+                                "title": "2.2 Playlist - Arquitetura e Organização de Computadores Stallings [SI -UEMG]",
+                                "url": "https://www.youtube.com/playlist?list=PLmaRoQtvrg9lLEammryBGPQbhTYlTn2as"
+                            },
+                            {
+                                "title": "2.3 Playlist - Arquitetura e Organização de Computadores [Max Oliveira]",
+                                "url": "https://www.youtube.com/playlist?list=PLCFV1CWqaLvyNgpaOJG4C3_DOAuOGEaaV"
+                            },
+                            {
+                                "title": "3 Tipos de memória [JK Cursos Online]",
+                                "url": "https://www.youtube.com/watch?v=r-Ca80kDteA"
+                            },
+                            {
+                                "title": "4.1 Unidades Centrais de Processamento [Gabriel Carvalho]",
+                                "url": "https://www.youtube.com/watch?v=U9KuAQmuXAE"
+                            },
+                            {
+                                "title": "4.2 Unidade Central de Processamento [Paulo José Dantas Novaes]",
+                                "url": "https://www.youtube.com/watch?v=r-_G2H0dczE"
+                            },
+                            {
+                                "title": "5.1 Tópicos de Entrada e Saída [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=O2YILF5BfIE"
+                            },
+                            {
+                                "title": "5.2 Resumo Entrada/Saída [Marcos Konzen]",
+                                "url": "https://www.youtube.com/watch?v=jS7t_rhVZ7Y"
+                            },
+                            {
+                                "title": "6.1 Chamadas de Sistema e Interrupções [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=IE9EVxy8Ups"
+                            },
+                            {
+                                "title": "6.2 Interrupções [Daniel Café]",
+                                "url": "https://www.youtube.com/watch?v=Nx9S5cV4WkY"
+                            },
+                            {
+                                "title": "7.1 Hierarquia de Memórias [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=w3V4_x15cbU"
+                            },
+                            {
+                                "title": "7.2 Resumo Memórias [Marcos Konzen]",
+                                "url": "https://www.youtube.com/watch?v=xfXsUzaTQRY"
+                            },
+                            {
+                                "title": "8.1 Utilizando a Memória Auxiliar [CLP Descomplicado]",
+                                "url": "https://www.youtube.com/watch?v=kQ7bhl5eXuQ"
+                            },
+                            {
+                                "title": "8.2 Uso de memória auxiliar [B7C Canal]",
+                                "url": "https://www.youtube.com/watch?v=9m9W8JId_jA"
+                            },
+                            {
+                                "title": "9.1 Arquitetura Superescalar [FAC Unb]",
+                                "url": "https://www.youtube.com/watch?v=i7XlROWMoRY"
+                            },
+                            {
+                                "title": "9.2 Arquitetura Superscalar [Matheus Jonatha]",
+                                "url": "https://www.youtube.com/watch?v=RJAX6Lqij40"
+                            },
+                            {
+                                "title": "10 Superpipeline [Michele Cristina]",
+                                "url": "https://www.youtube.com/watch?v=BCjWO7DOZ8E"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Banco de dados I (BD1)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": " Playlist - Mysql tutorial [Curso em Vídeo]",
+                                "url": "https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r"
+                            },
+                            {
+                                "title": " MySQL Tutorial for Beginners [Full Course] ",
+                                "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA"
+                            },
+                            {
+                                "title": "1.1 Noções de Banco de Dados [AlfaCon Concursos Públicos]",
+                                "url": "https://www.youtube.com/watch?v=vNVqjbjcUAQ"
+                            },
+                            {
+                                "title": "1.2 10 Conceitos de Bancos de Dados [Bóson Treinamentos]",
+                                "url": "https://www.youtube.com/watch?v=2E7crqRI1iE"
+                            },
+                            {
+                                "title": "1.3 Conceitos de Banco de Dados [Bóson Treinamentos]",
+                                "url": "https://www.youtube.com/watch?v=Q_KTYFgvu1s"
+                            },
+                            {
+                                "title": "2.1 Playlist Curso de Modelagem de Dados [Bóson Treinamentos]",
+                                "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD"
+                            },
+                            {
+                                "title": "2.2 Modelagem de Banco de Dados [Antonio Savio]",
+                                "url": "https://www.youtube.com/watch?v=G-XOc8LVZIo"
+                            },
+                            {
+                                "title": "3 Abordagem Relacional [Glécio Rodrigues]",
+                                "url": "https://www.youtube.com/watch?v=zj8roTlKLOY"
+                            },
+                            {
+                                "title": "4.1 Restrições de Integridade [Bóson Treinamentos]",
+                                "url": "https://www.youtube.com/watch?v=BurdDn16ZgE"
+                            },
+                            {
+                                "title": "4.2 Restrições de Integridade [Cadoná]",
+                                "url": "https://www.youtube.com/watch?v=kY9oNW_EEP0"
+                            },
+                            {
+                                "title": "4.3 Restrições de Integridade e Chave [André Santanchè]",
+                                "url": "https://www.youtube.com/watch?v=OQHi83i7MTg"
+                            },
+                            {
+                                "title": "5.1 Álgebra Relacional [André Santanchè]",
+                                "url": "https://www.youtube.com/watch?v=LHkJd89n__c"
+                            },
+                            {
+                                "title": "5.2 Álgebra Relacional [UNIVESP]",
+                                "url": "https://www.youtube.com/watch?v=jhD9WYNWorA"
+                            },
+                            {
+                                "title": "5.3 Álgebra Relacional [Daniel Pimentel]",
+                                "url": "https://www.youtube.com/watch?v=GF4Q-04K84s"
+                            },
+                            {
+                                "title": "6 Curso SQL Completo em 1 vídeo [DevAprender] ",
+                                "url": "https://www.youtube.com/watch?v=rX2I7OjLqWE"
+                            },
+                            {
+                                "title": "7.1 Playlist - Normalização [Procópio na Rede]",
+                                "url": "https://www.youtube.com/playlist?list=PLqsF5rntN2nZ71PyONJCmTry6p4myI2Sb"
+                            },
+                            {
+                                "title": "7.2 Playlist - Normalização de Banco de Dados",
+                                "url": "https://www.youtube.com/playlist?list=PL2dIx3B9Nj_spfb8ou9lDs24W4H6HQEU2"
+                            },
+                            {
+                                "title": "8.1 Implementação do Banco de Dados [Bóson Treinamentos]",
+                                "url": "https://www.youtube.com/watch?v=c7r8t4qYWS0"
+                            },
+                            {
+                                "title": "8.2 Projeto e Implementação do Banco de Dados [Ivan Paulino]",
+                                "url": "https://www.youtube.com/watch?v=4H29e12AJdc"
+                            },
+                            {
+                                "title": "8.3 Implementação de um Projeto de Banco de Dados [Luciano Savio]",
+                                "url": "https://www.youtube.com/watch?v=SAdNtwanjco"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Recursos em texto",
+                        "list": [
+                            {
+                                "title": " Tutorial teórico e prático completo com direito a certificado (Em inglês) ",
+                                "url": "https://www.w3schools.com/sql/default.asp"
+                            },
+                            {
+                                "title": " Site para treinar SQL conforme a evolução do aprendizado. (Em inglês)",
+                                "url": "https://sqlzoo.net/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
