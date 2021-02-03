@@ -5,8 +5,15 @@
 }
 
 #topbar > #searchBar {
-    display: flex;
+    /* display: flex; */
+    display: none;
     flex-direction: row;
     margin-right: 3em;
     flex: 0;
+}
+
+@media (min-width: 700px) {
+    #topbar > #searchBar {
+        display: flex;
+    }
 }

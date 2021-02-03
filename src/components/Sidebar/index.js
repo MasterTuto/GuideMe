@@ -23,9 +23,18 @@ export default function Sidebar(props) {
                 {
                 db.map((e, x) => {
                     return (
-                        <li key={e.semester}><span id="li-title" onClick={() => switchSemesterSpoiler(e.semester)}>{e.semester}</span>
+                        <li key={e.semester}> <span
+                                className="li-title"
+                                id={x == props.semesterIndex ? 'selected-item': ""}
+                                onClick={() => switchSemesterSpoiler(e.semester)}
+                            >{e.semester}</span>
+
                             { itemsToShow.includes(e.semester)
-                               ? <ul>{ e.subjects.map((e, y) => <li key={e.name} onClick={()=>props.setSemesterAndSubjectIndex([x, y])}>{e.name}</li>) } </ul>
+                               ? <ul>{ e.subjects.map((e, y) => <li
+                                    key={e.name}
+                                    id={y == props.subjectIndex && x === props.semesterIndex ? 'selected-item' : ""}
+                                    onClick={()=>props.setSemesterAndSubjectIndex([x, y])}
+                                    >{e.name}</li>) } </ul>
                                : null
                             }
                         </li>

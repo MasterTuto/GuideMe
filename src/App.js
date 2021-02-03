@@ -20,6 +20,8 @@ function App() {
             <Topbar showHideText={showSideBar} title="GuideMe" switchSideBar={() => setShowSideBar(!showSideBar)} />
             { showSideBar ?
                 <Sidebar
+                    semesterIndex={semesterAndSubjectIndex[0]}
+                    subjectIndex={semesterAndSubjectIndex[1]}
                     setSemesterAndSubjectIndex={setSemesterAndSubjectIndex}
                     />
                     :
