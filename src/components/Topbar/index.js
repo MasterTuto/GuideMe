@@ -1,6 +1,6 @@
 import React from 'react';
 
-import MenuButton from '../MenuButton';
+import SwitchSideBarButton from '../SwitchSideBarButton';
 import SearchBar from '../SearchBar';
 
 import './style.css';
@@ -8,7 +8,7 @@ import './style.css';
 export default function Topbar(props) {
     return (
         <div id="topbar">
-            <MenuButton showHideText={props.showHideText} onClick={props.switchSideBar} />
+            <SwitchSideBarButton showHideText={props.showHideText} onClick={props.switchSideBar} />
             
             <span>{props.title}</span>
 

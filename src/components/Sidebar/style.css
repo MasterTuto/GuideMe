@@ -1,15 +1,18 @@
 #sidebar {
-    position: fixed;
-    top: 4.2em;
+    position: absolute;
+    /* top: 4.2em; */
+    top: 0;
+    left: -400px;
     flex: 1;
     background-color: #3F51B5;
-    width: 23%;
-    height: calc(100% - 5em);
-    min-width: 300px;
+    width: 300px;
+    height: 100vh;
     color: #FFFFFF;
     overflow-y:auto;
-    z-index: 999999999;
+    z-index: 1;
     padding: 0.5em;
+    transition: 0.6s;
+    padding-top: 80px;
 }
 
 #li-title {
@@ -19,10 +22,15 @@
 
 ul {
     margin: 5px 0 19px 0;
+    list-style-type: "📅";
+}
+
+ul li ul {
+    list-style-type: "📚";
 }
 
 li {
-    margin-top: 7px;
+    margin-top: 20px;
     cursor: pointer;
 }
 

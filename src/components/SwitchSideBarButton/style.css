@@ -1,0 +1,38 @@
+button, input[type="submit"] {
+    padding: 1em;
+    color: #FFFFFF;
+    background-color: #536DFE;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+}
+
+button:hover, input[type="submit"]:hover {
+    transform: rotate(360deg);
+}
+
+#hamburguer {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    cursor: pointer;
+    z-index: 500;
+}
+
+#hamburguer div {
+    background-color: #f5f5f5;
+    transition: 0.6s;
+    height: 5px;
+}
+
+.line1 {
+    transform-origin: top right;
+}
+
+.line3 {
+    transform-origin: bottom right;
+}

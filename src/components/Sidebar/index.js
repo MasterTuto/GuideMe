@@ -19,6 +19,7 @@ export default function Sidebar(props) {
     return (
         <div id="sidebar">
             <SearchBar />
+
             <ul>
                 {
                 db.map((e, x) => {

@@ -3,7 +3,7 @@ import React from 'react';
 import './style.css';
 
 function ContentCard(props) {
-    console.log(`https://www.youtube.com/embed/${props.url.match(/v=(\w+)/)}`);
+    console.log(props.url +"...." + `https://www.youtube.com/embed/${props.url.match(/v=(\w+)/)}`);
     const url = props.url.includes('watch')
                 ? `https://www.youtube.com/embed/${props.url.match(/v=(\w+)/)[1]}`
                 : false;
