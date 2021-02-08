@@ -21,7 +21,9 @@
     font-style: italic;
 }
 
-#container-of-cards {
-    display: grid;
-    grid-template-columns: auto auto auto;
+@media(min-width: 700px) {
+    #container-of-cards {
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
 }
