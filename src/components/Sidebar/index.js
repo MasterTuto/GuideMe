@@ -18,7 +18,7 @@ export default function Sidebar(props) {
 
     return (
         <div id="sidebar">
-            <SearchBar />
+            <SearchBar onChange={props.changeContent} />
 
             <ul>
                 {

@@ -28,8 +28,11 @@
     flex-direction: column;
     justify-content: center;
     margin:auto;
+    padding: 0 10px;
     color: #FFFFFF;
     cursor: pointer;
+    text-overflow:unset;
+    overflow-wrap: break-word;
 }
 
 .content-card-title {

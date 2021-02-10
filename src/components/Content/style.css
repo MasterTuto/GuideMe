@@ -9,7 +9,6 @@
 #content #semester-and-subject {
     margin-top: 150px;
     margin-left: 30px;
-
 }
 
 #content h2 {
@@ -19,6 +18,28 @@
 
 #content h4 {
     font-style: italic;
+    color: #3c3c3c;
+    line-height: 0;
+}
+
+#content select {
+    width:  60%;
+    height: 50px;
+    background-color: #536DFE;
+    color: white;
+    margin-right: 90px;
+    border: none;
+    padding: 10px;
+}
+
+#content select option {
+    width:  60%;
+    height: 50px;
+    background-color: #536DFE;
+    color: white;
+    margin-right: 90px;
+    border: none;
+    padding: 10px;
 }
 
 @media(min-width: 700px) {

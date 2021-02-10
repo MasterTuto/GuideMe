@@ -10,23 +10,24 @@ button, input[type="submit"] {
 }
 
 button:hover, input[type="submit"]:hover {
-    transform: rotate(360deg);
+    transform: scale(1.2, 1.2);
 }
 
 #hamburguer {
-    width: 36px;
+    width: 25.71px;
     height: 36px;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
     cursor: pointer;
     z-index: 500;
+    
 }
 
 #hamburguer div {
     background-color: #f5f5f5;
     transition: 0.6s;
-    height: 5px;
+    height: 3px;
 }
 
 .line1 {

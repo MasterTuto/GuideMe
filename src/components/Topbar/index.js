@@ -10,9 +10,9 @@ export default function Topbar(props) {
         <div id="topbar">
             <SwitchSideBarButton showHideText={props.showHideText} onClick={props.switchSideBar} />
             
-            <span>{props.title}</span>
+            <span id="guide-me-title">{props.title}</span>
 
-            <SearchBar />
+            <SearchBar onChange={props.changeContent}/>
         </div>
     );
 }
