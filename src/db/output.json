@@ -1,5 +1,9 @@
 [
     {
+        "semester": "Materiais extras",
+        "subjects": []
+    },
+    {
         "semester": "Primeiro Semestre",
         "subjects": [
             {
@@ -39,6 +43,106 @@
                             {
                                 "title": "6.3 Playlist - Curso de C++ [eXcript]",
                                 "url": "https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cálculo Diferencial e Integral I",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "1.1 (Playlist) Cálculo 1 completo [Equaciona]",
+                                "url": "https://www.youtube.com/playlist?list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC"
+                            },
+                            {
+                                "title": "1.2 (Playlist) Cálculo 1 completo [Professor Ferreto]",
+                                "url": "https://www.youtube.com/playlist?list=PLTPg64KdGgYhACfQUtMf3CuhWOfLoTf_a"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Geometria Analítica e Cálculo Vetorial (GACV)",
+                "content": [
+                    {
+                        "type": "Recursos em vídeo",
+                        "list": [
+                            {
+                                "title": "5.1 (Playlist) Geometria Analítica e Cálculo Vetorial",
+                                "url": "https://www.youtube.com/playlist?list=PL2sRT666DbkAIA2ywMHcDvmbme2V0-jqK"
+                            },
+                            {
+                                "title": "1 (Playlist) Operações com matrizes [Equaciona]",
+                                "url": "https://www.youtube.com/playlist?list=PLEfwqyY2ox868TPa8vjL-QPfQlmtqRGa5"
+                            },
+                            {
+                                "title": "2.1 A equação da reta [Equaciona]",
+                                "url": "https://www.youtube.com/watch?v=pRNnguDcR6Y"
+                            },
+                            {
+                                "title": "2.2 A equação da reta [Rafael Procópio]",
+                                "url": "https://www.youtube.com/watch?v=Mxg8ChbJhKk"
+                            },
+                            {
+                                "title": "2.3 Equação vetorial da reta [GRINGS]",
+                                "url": "https://www.youtube.com/watch?v=-KQdcORi56w"
+                            },
+                            {
+                                "title": "3.1 Equação geral da circunferência [Equaciona]",
+                                "url": "https://www.youtube.com/watch?v=tu81HCPl4mU"
+                            },
+                            {
+                                "title": "3.2 Equação reduzida da circunferência [Equaciona",
+                                "url": "https://www.youtube.com/watch?v=p93CirSoL8A"
+                            },
+                            {
+                                "title": "3.3 Equação geral da circunferência [Sandro curió]",
+                                "url": "https://www.youtube.com/watch?v=ItWiSvXxsww"
+                            },
+                            {
+                                "title": "3.4 Equação geral e reduzida da reta [Prof. MURAKAMI]",
+                                "url": "https://www.youtube.com/watch?v=PMWsaMkD0uA"
+                            },
+                            {
+                                "title": "4.1 Elipse - As cônicas [Equaciona]",
+                                "url": "https://www.youtube.com/watch?v=AQV5O0Go_YE"
+                            },
+                            {
+                                "title": "4.2 Parábola - Cônicas [Equaciona]",
+                                "url": "https://www.youtube.com/watch?v=mCcmt5RyfNI"
+                            },
+                            {
+                                "title": "4.3 Hipérbole - Cônicas [Equaciona]",
+                                "url": "https://www.youtube.com/watch?v=9xoLazPxV6w"
+                            },
+                            {
+                                "title": "4.4 Cônicas - Exercícios [Equaciona]",
+                                "url": "https://www.youtube.com/watch?v=w0ZtqJySqHs"
+                            },
+                            {
+                                "title": "4.5 Parábola - Cônicas (Aula 1) [Grings]",
+                                "url": "https://www.youtube.com/watch?v=2ZS_bohHayA"
+                            },
+                            {
+                                "title": "4.6 Parábola - Cônicas (Aula 2) [Grings]",
+                                "url": "https://www.youtube.com/watch?v=2QxO3N5vjkk"
+                            },
+                            {
+                                "title": "4.7 Elipse - Cônicas [Grings]",
+                                "url": "https://www.youtube.com/watch?v=k3LOPjFJ5uQ"
+                            },
+                            {
+                                "title": "4.8 Hipérbole - Cônicas [Grings]",
+                                "url": "https://www.youtube.com/watch?v=fu6RkXVq6kE"
+                            },
+                            {
+                                "title": "5.1 Rotação e Translação de Eixos [Percurso Educacional]",
+                                "url": "https://www.youtube.com/watch?v=UGoidDgM7PQ"
                             }
                         ]
                     }
